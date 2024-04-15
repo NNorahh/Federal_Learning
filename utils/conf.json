@@ -1,0 +1,28 @@
+
+{
+	
+	"no_models" : 6,
+
+	"servers" : 3,
+	
+	"global_epochs" : 30,
+	
+	"local_epochs" : 2,
+	
+	"k" : 3,
+	
+	"batch_size" : 64,
+	
+	"lr" : 0.15,
+	
+	"momentum" : 0.0001,
+	
+	"lambda" : 0.5,
+	
+	"feature_num" : 30,
+
+	"mpc_feature_num" : 10,
+
+	"mpc_feature_num_remain" : 1
+}
+
